@@ -27,11 +27,3 @@ A fully functional, full-stack real-time chat application. Users can register, l
 | **Auth** | JSON Web Tokens (JWT), bcryptjs |
 | **Hosting** | Render (Backend), MongoDB Atlas (DB) |
 
-## 🚀 Run Locally
-
-If you want to run this project on your own machine, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Aditya-dev19/chat-app.git
-   cd chat-app
